@@ -6,6 +6,7 @@ These are the exercise files used for [Create a Professional Website with Dreamw
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/professional-website-dreamweaver-training.html
+https://www.tertiarycourses.com.my/dreamweaver-cc-essential-training-courses.html
 
 <ul>
 <li><strong>Module 1. The Dreamweaver Interface</strong></li>
